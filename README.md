@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/tsionkinde/topractice-leethub/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tsionkinde/topractice-leethub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tsionkinde/topractice-leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
