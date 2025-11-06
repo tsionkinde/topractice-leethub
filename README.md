@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/tsionkinde/topractice-leethub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tsionkinde/topractice-leethub/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/tsionkinde/topractice-leethub/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tsionkinde/topractice-leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0136-single-number) |
