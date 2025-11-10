@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
 | [0978-valid-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 | [1580-shuffle-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1651-shuffle-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tsionkinde/topractice-leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
+| [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
