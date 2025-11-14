@@ -7,4 +7,9 @@ class Solution:
                      the_index.append(i)#the 2 lines of append are in two d/t lines b.c append does not take  two arguments
                      the_index.append(j)
         return the_index
-            
+            # we can also code like this b/c the above one is by using brute force
+            #hm={}
+            #for i,v in enumerate(nums):
+                #if hm and target -v in hm:
+                    #return [hm[target-v],i]
+                #hm[v]=i    
