@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsionkinde/topractice-leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tsionkinde/topractice-leethub/tree/master/1051-height-checker) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tsionkinde/topractice-leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tsionkinde/topractice-leethub/tree/master/1051-height-checker) |
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tsionkinde/topractice-leethub/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -147,5 +150,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/tsionkinde/topractice-leethub/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
