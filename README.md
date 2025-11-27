@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tsionkinde/topractice-leethub/tree/master/1051-height-checker) |
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tsionkinde/topractice-leethub/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1580-shuffle-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1651-shuffle-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tsionkinde/topractice-leethub/tree/master/1051-height-checker) |
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tsionkinde/topractice-leethub/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Simulation
 |  |
 | ------- |
