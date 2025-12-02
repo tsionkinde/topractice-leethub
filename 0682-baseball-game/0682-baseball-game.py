@@ -8,7 +8,8 @@ class Solution:
             elif op == "D":
                 stack.append(2 * stack[-1])
             elif op == "C":
-                stack.pop()
+                if stack:
+                    stack.pop()
             else:
                 stack.append(int(op))
 
