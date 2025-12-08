@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tsionkinde/topractice-leethub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/tsionkinde/topractice-leethub/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
