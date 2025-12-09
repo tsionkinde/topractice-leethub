@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/tsionkinde/topractice-leethub/tree/master/0682-baseball-game) |
+| [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0978-valid-mountain-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
+| [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Counting
