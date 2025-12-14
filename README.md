@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tsionkinde/topractice-leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsionkinde/topractice-leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsionkinde/topractice-leethub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tsionkinde/topractice-leethub/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
