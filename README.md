@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsionkinde/topractice-leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/tsionkinde/topractice-leethub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tsionkinde/topractice-leethub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/tsionkinde/topractice-leethub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tsionkinde/topractice-leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/tsionkinde/topractice-leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
