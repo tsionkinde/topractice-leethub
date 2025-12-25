@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/tsionkinde/topractice-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/tsionkinde/topractice-leethub/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/tsionkinde/topractice-leethub/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/tsionkinde/topractice-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsionkinde/topractice-leethub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsionkinde/topractice-leethub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/tsionkinde/topractice-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
