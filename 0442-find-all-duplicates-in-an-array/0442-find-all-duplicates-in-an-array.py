@@ -1,10 +1,14 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        from collections import Counter
+        indexes={}
         result=[]
-        count=Counter(nums)
-        for num in count:
-            if count[num] >1:
+        for num in nums:
+            if num in indexes:
+                indexes[num]+=1
+            else:
+                indexes[num]=1
+        for num in indexes:
+            if indexes[num]>1:
                 result.append(num)
-
-        return result
+        return result                    
+        
