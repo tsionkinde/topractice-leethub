@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/tsionkinde/topractice-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/tsionkinde/topractice-leethub/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tsionkinde/topractice-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsionkinde/topractice-leethub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
