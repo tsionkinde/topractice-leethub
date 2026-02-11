@@ -1,8 +1,14 @@
+from collections import Counter
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-     tobe_set=len(set(nums))
-     nums=len(nums)
-     if  tobe_set!= nums:
-        return True
-     elif  tobe_set==nums:
+        count=Counter(nums)
+        for i in count:
+            if count[i]>1:
+                return True
         return False    
+                    
+        
+       
+
+
+        
