@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/tsionkinde/topractice-leethub/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
 ## Matrix
