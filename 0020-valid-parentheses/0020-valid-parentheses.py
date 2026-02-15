@@ -14,3 +14,5 @@ class Solution:
                 stack.pop()  # Pop the top element from the stack if it matches
         
         return not stack  # Return True if the stack is empty, otherwise False
+        
+        
