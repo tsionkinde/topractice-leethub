@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
