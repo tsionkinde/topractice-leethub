@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tsionkinde/topractice-leethub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/tsionkinde/topractice-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsionkinde/topractice-leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0179-largest-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tsionkinde/topractice-leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/tsionkinde/topractice-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tsionkinde/topractice-leethub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0219-contains-duplicate-ii) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tsionkinde/topractice-leethub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
