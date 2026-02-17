@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0722-remove-comments](https://github.com/tsionkinde/topractice-leethub/tree/master/0722-remove-comments) |
 | [0742-to-lower-case](https://github.com/tsionkinde/topractice-leethub/tree/master/0742-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/tsionkinde/topractice-leethub/tree/master/0682-baseball-game) |
+| [0722-remove-comments](https://github.com/tsionkinde/topractice-leethub/tree/master/0722-remove-comments) |
 | [0867-transpose-matrix](https://github.com/tsionkinde/topractice-leethub/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
