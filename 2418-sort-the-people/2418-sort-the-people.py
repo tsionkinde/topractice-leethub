@@ -1,15 +1,18 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        for i in range(len(heights)-1):#selection sort
-            max_index=i
+        for i in range(1,len(heights)):#selection sort
+            key_h=heights[i]
+            key_n=names[i]
+            j=i-1
 
-            for j in range(i+1,len(heights)):
+            while j>=0 and heights[j] < key_h:
+                heights[j+1]=heights[j]
+                names[j+1]=names[j]
+                j-=1
+            heights[j+1]=key_h
+            names[j+1]=key_n    
                 
-                if heights[j] > heights[max_index]:
-                    max_index=j
-            heights[i],heights[max_index]=heights[max_index],heights[i]
-
-            names[i],names[max_index]=names[max_index], names[i]
+               
         return names        
 
 
