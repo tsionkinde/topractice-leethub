@@ -9,12 +9,5 @@ class Solution:
             else:
                 return 1    
        nums=sorted(nums,key=cmp_to_key(compare)) 
-       return str(int(''.join(nums)))   
-    
-
-        
-
-
-
-
+       return str(int(''.join(nums)))
         
