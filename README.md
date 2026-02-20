@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/tsionkinde/topractice-leethub/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/tsionkinde/topractice-leethub/tree/master/0722-remove-comments) |
 | [0742-to-lower-case](https://github.com/tsionkinde/topractice-leethub/tree/master/0742-to-lower-case) |
+| [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tsionkinde/topractice-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tsionkinde/topractice-leethub/tree/master/0609-find-duplicate-file-in-system) |
+| [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
+| [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
