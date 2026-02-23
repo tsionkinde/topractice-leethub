@@ -8,11 +8,9 @@ class Solution:
                 r-=1
             elif numbers[l]+numbers[r]<target:
                 l+=1
-            else:
-                
+            else:             
 
                 
                 return [l+1,r+1] 
-        return -1          
-
-                        
+        return -1  
+        
