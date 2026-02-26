@@ -10,4 +10,5 @@ class Solution:
                 left+=1
             char_set.add(s[right])
             res=max(res,right-left+1)
-        return res        
+        return res  
+        
