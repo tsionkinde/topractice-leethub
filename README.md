@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
+| [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
