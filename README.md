@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsionkinde/topractice-leethub/tree/master/0380-insert-delete-getrandom-o1) |
+| [0707-design-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0707-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-number-of-recent-calls) |
 | [2671-frequency-tracker](https://github.com/tsionkinde/topractice-leethub/tree/master/2671-frequency-tracker) |
 ## Queue
@@ -495,5 +496,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0707-design-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
