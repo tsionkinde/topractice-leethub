@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
 | [1651-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1651-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1580-shuffle-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1580-shuffle-the-array) |
+| [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
 | [1603-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1651-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1651-shuffle-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsionkinde/topractice-leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
