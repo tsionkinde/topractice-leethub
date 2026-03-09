@@ -411,16 +411,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsionkinde/topractice-leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-number-of-recent-calls) |
 | [2671-frequency-tracker](https://github.com/tsionkinde/topractice-leethub/tree/master/2671-frequency-tracker) |
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
