@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/tsionkinde/topractice-leethub/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/tsionkinde/topractice-leethub/tree/master/0682-baseball-game) |
 | [0722-remove-comments](https://github.com/tsionkinde/topractice-leethub/tree/master/0722-remove-comments) |
+| [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/tsionkinde/topractice-leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tsionkinde/topractice-leethub/tree/master/0867-transpose-matrix) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tsionkinde/topractice-leethub/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsionkinde/topractice-leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsionkinde/topractice-leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
