@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/tsionkinde/topractice-leethub/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -537,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tsionkinde/topractice-leethub/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tsionkinde/topractice-leethub/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
