@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsionkinde/topractice-leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/2487-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
