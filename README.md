@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0922-sort-array-by-parity-ii) |
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
+| [0969-pancake-sorting](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0922-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [0978-valid-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0978-valid-mountain-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tsionkinde/topractice-leethub/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0922-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1029-two-city-scheduling) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/tsionkinde/topractice-leethub/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/tsionkinde/topractice-leethub/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1029-two-city-scheduling) |
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
