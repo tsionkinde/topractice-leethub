@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tsionkinde/topractice-leethub/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsionkinde/topractice-leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0523-continuous-subarray-sum) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tsionkinde/topractice-leethub/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tsionkinde/topractice-leethub/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/tsionkinde/topractice-leethub/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/tsionkinde/topractice-leethub/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/2487-remove-nodes-from-linked-list) |
