@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionkinde/topractice-leethub/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsionkinde/topractice-leethub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionkinde/topractice-leethub/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0509-fibonacci-number) |
