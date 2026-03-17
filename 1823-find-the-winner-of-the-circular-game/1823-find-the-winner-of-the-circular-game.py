@@ -1,10 +1,6 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
-        nums=[i for i in range(1,n+1)]
-        curr=0
-        while len(nums)>1:
-            curr=(curr + k-1 )% len(nums)
-            nums.pop(curr)
-        return nums[0]    
-
+        if n==1:
+            return 1
+        return (self.findTheWinner(n-1,k)+k-1)%n+1    
         
