@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -619,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0450-delete-node-in-a-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
