@@ -8,14 +8,12 @@ class Solution:
                 return 
 
 
-            #choices
-            for j in range(i,n+1):
-                path.append(j)
-                combi(path,j+1)
-                path.pop()
-            return 
-
-
+            if i>n:
+                return 
+            path.append(i)
+            combi(path,i+1)
+            path.pop()
+            combi(path,i+1)    
 
         combi([],1)
         return ans
