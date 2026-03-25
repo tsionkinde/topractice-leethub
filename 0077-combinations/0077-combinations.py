@@ -10,9 +10,11 @@ class Solution:
 
             if i>n:
                 return 
+                #pick
             path.append(i)
             combi(path,i+1)
             path.pop()
+            # not pick
             combi(path,i+1)    
 
         combi([],1)
