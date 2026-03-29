@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tsionkinde/topractice-leethub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/tsionkinde/topractice-leethub/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/tsionkinde/topractice-leethub/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tsionkinde/topractice-leethub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsionkinde/topractice-leethub/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0543-diameter-of-binary-tree) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tsionkinde/topractice-leethub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsionkinde/topractice-leethub/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tsionkinde/topractice-leethub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsionkinde/topractice-leethub/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0543-diameter-of-binary-tree) |
@@ -664,4 +668,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tsionkinde/topractice-leethub/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tsionkinde/topractice-leethub/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tsionkinde/topractice-leethub/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/tsionkinde/topractice-leethub/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
