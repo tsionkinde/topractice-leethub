@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tsionkinde/topractice-leethub/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsionkinde/topractice-leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/tsionkinde/topractice-leethub/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
@@ -693,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/tsionkinde/topractice-leethub/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tsionkinde/topractice-leethub/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/tsionkinde/topractice-leethub/tree/master/0257-binary-tree-paths) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tsionkinde/topractice-leethub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
