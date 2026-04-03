@@ -22,3 +22,5 @@ class Solution:
                 total += roman[s[i]]
         
         return total
+
+        
