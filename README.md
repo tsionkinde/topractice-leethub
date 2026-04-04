@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tsionkinde/topractice-leethub/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/0859-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/tsionkinde/topractice-leethub/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
+| [0859-buddy-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/0859-buddy-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsionkinde/topractice-leethub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
