@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/tsionkinde/topractice-leethub/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/tsionkinde/topractice-leethub/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0876-middle-of-the-linked-list) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/tsionkinde/topractice-leethub/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tsionkinde/topractice-leethub/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/0859-buddy-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/tsionkinde/topractice-leethub/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/tsionkinde/topractice-leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tsionkinde/topractice-leethub/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/tsionkinde/topractice-leethub/tree/master/0875-koko-eating-bananas) |
