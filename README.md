@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/tsionkinde/topractice-leethub/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/tsionkinde/topractice-leethub/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tsionkinde/topractice-leethub/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/0859-buddy-strings) |
