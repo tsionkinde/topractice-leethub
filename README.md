@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tsionkinde/topractice-leethub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0523-continuous-subarray-sum) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/tsionkinde/topractice-leethub/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tsionkinde/topractice-leethub/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tsionkinde/topractice-leethub/tree/master/0875-koko-eating-bananas) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tsionkinde/topractice-leethub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
