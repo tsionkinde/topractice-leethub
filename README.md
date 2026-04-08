@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/tsionkinde/topractice-leethub/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tsionkinde/topractice-leethub/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsionkinde/topractice-leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/tsionkinde/topractice-leethub/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0897-increasing-order-search-tree) |
 ## Hash Function
 |  |
 | ------- |
