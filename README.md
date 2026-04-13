@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/tsionkinde/topractice-leethub/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/tsionkinde/topractice-leethub/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/0859-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/tsionkinde/topractice-leethub/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/tsionkinde/topractice-leethub/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
