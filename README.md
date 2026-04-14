@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/tsionkinde/topractice-leethub/tree/master/1103-distribute-candies-to-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/tsionkinde/topractice-leethub/tree/master/1089-duplicate-zeros) |
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tsionkinde/topractice-leethub/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsionkinde/topractice-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
