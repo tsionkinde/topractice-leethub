@@ -1,19 +1,22 @@
 from collections import deque, defaultdict
 class Solution:
     def validPath(self, n, edges, source, destination):
-        graph = defaultdict(list)        
-        for u, v in edges:
+        visited=set()
+        graph=defaultdict(list)
+        for u,v in edges:
             graph[u].append(v)
             graph[v].append(u)
-        queue = deque([source])
-        visited = set([source])
-        while queue:
-            node = queue.popleft()
-            if node == destination:
+        def dfs(node):
+            #base case
+            if node==destination:
                 return True
-            for neighbor in graph[node]:
-                if neighbor not in visited:
-                    visited.add(neighbor)
-                    queue.append(neighbor)
+            visited.add(node)
+            #path
+            for neigh in graph[node]:
+                if neigh not in visited:
+                    if dfs(neigh):
+                        return True
+            return False  
+        return dfs( source)          
 
-        return False
+    
