@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/tsionkinde/topractice-leethub/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/tsionkinde/topractice-leethub/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/tsionkinde/topractice-leethub/tree/master/1556-thousand-separator) |
 | [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tsionkinde/topractice-leethub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/tsionkinde/topractice-leethub/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsionkinde/topractice-leethub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tsionkinde/topractice-leethub/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tsionkinde/topractice-leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsionkinde/topractice-leethub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/tsionkinde/topractice-leethub/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
