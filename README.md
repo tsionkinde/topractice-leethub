@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/0349-intersection-of-two-arrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tsionkinde/topractice-leethub/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tsionkinde/topractice-leethub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/0347-top-k-frequent-elements) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsionkinde/topractice-leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tsionkinde/topractice-leethub/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tsionkinde/topractice-leethub/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/tsionkinde/topractice-leethub/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tsionkinde/topractice-leethub/tree/master/0645-set-mismatch) |
