@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2390-removing-stars-from-a-string) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/tsionkinde/topractice-leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
