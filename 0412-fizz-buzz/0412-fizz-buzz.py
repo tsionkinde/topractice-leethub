@@ -12,3 +12,4 @@ class Solution:
                   fizz_buzz.append(str(i))
         return  fizz_buzz
         
+        
