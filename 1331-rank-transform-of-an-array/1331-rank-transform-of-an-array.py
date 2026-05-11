@@ -1,5 +1,3 @@
-
-
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
         sorted_arr = sorted(set(arr))
