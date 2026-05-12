@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/tsionkinde/topractice-leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/tsionkinde/topractice-leethub/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1796-second-largest-digit-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1796-second-largest-digit-in-a-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tsionkinde/topractice-leethub/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/tsionkinde/topractice-leethub/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/tsionkinde/topractice-leethub/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
+| [1796-second-largest-digit-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1796-second-largest-digit-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
