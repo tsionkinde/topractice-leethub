@@ -10,19 +10,5 @@ class Solution:
         for word in words:
             if word not in banned:
                 count[word]+=1
-        return max(count,key=count.get)        
-
-
-        
-
-            
-
-     
-
-
-        
-
-
-
-        
+        return max(count,key=count.get)
         
