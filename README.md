@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsionkinde/topractice-leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/tsionkinde/topractice-leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
