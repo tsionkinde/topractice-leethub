@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/tsionkinde/topractice-leethub/tree/master/1103-distribute-candies-to-people) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
