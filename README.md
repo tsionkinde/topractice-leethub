@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
+| [2404-most-frequent-even-element](https://github.com/tsionkinde/topractice-leethub/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/tsionkinde/topractice-leethub/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/tsionkinde/topractice-leethub/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
