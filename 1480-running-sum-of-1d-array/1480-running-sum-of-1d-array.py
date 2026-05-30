@@ -8,5 +8,4 @@ class Solution:
             temp += nums[i]
             summed_list.append( temp)
         return  summed_list
-
         
