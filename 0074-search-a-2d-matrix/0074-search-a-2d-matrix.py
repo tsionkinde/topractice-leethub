@@ -1,4 +1,3 @@
-Python3
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         for i in matrix:
@@ -6,4 +5,5 @@ class Solution:
                 return True
             
         return False    
+         
         
