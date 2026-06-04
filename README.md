@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/tsionkinde/topractice-leethub/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2235-add-two-integers](https://github.com/tsionkinde/topractice-leethub/tree/master/2235-add-two-integers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tsionkinde/topractice-leethub/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/tsionkinde/topractice-leethub/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1903-largest-odd-number-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/tsionkinde/topractice-leethub/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1903-largest-odd-number-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2027-minimum-moves-to-convert-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
