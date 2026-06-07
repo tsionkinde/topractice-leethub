@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/tsionkinde/topractice-leethub/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tsionkinde/topractice-leethub/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/tsionkinde/topractice-leethub/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/tsionkinde/topractice-leethub/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/tsionkinde/topractice-leethub/tree/master/0412-fizz-buzz) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tsionkinde/topractice-leethub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tsionkinde/topractice-leethub/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/tsionkinde/topractice-leethub/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tsionkinde/topractice-leethub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/tsionkinde/topractice-leethub/tree/master/1668-maximum-repeating-substring) |
