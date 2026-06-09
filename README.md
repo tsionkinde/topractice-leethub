@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/tsionkinde/topractice-leethub/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2027-minimum-moves-to-convert-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
