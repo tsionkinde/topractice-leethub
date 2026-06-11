@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/tsionkinde/topractice-leethub/tree/master/0742-to-lower-case) |
 | [0763-partition-labels](https://github.com/tsionkinde/topractice-leethub/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/tsionkinde/topractice-leethub/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/tsionkinde/topractice-leethub/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/tsionkinde/topractice-leethub/tree/master/1668-maximum-repeating-substring) |
 ## Quickselect
