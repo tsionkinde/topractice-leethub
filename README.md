@@ -946,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/tsionkinde/topractice-leethub/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
