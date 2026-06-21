@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/tsionkinde/topractice-leethub/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/tsionkinde/topractice-leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tsionkinde/topractice-leethub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tsionkinde/topractice-leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tsionkinde/topractice-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
+| [1833-maximum-ice-cream-bars](https://github.com/tsionkinde/topractice-leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsionkinde/topractice-leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/tsionkinde/topractice-leethub/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1833-maximum-ice-cream-bars](https://github.com/tsionkinde/topractice-leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2027-minimum-moves-to-convert-string) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/tsionkinde/topractice-leethub/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsionkinde/topractice-leethub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/tsionkinde/topractice-leethub/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
