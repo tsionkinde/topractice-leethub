@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tsionkinde/topractice-leethub/tree/master/0704-binary-search) |
 | [0722-remove-comments](https://github.com/tsionkinde/topractice-leethub/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/tsionkinde/topractice-leethub/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0811-subdomain-visit-count](https://github.com/tsionkinde/topractice-leethub/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/tsionkinde/topractice-leethub/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tsionkinde/topractice-leethub/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/tsionkinde/topractice-leethub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tsionkinde/topractice-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tsionkinde/topractice-leethub/tree/master/1346-check-if-n-and-its-double-exist) |
