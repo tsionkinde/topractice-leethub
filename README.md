@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tsionkinde/topractice-leethub/tree/master/2574-left-and-right-sum-differences) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
