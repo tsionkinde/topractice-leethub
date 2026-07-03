@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/tsionkinde/topractice-leethub/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/tsionkinde/topractice-leethub/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3689-maximum-total-subarray-value-i) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/tsionkinde/topractice-leethub/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/tsionkinde/topractice-leethub/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/tsionkinde/topractice-leethub/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
 ## Dynamic Programming
 |  |
