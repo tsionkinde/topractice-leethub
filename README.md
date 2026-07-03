@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/tsionkinde/topractice-leethub/tree/master/2235-add-two-integers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/tsionkinde/topractice-leethub/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/tsionkinde/topractice-leethub/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
