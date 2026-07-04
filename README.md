@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3689-maximum-total-subarray-value-i) |
+| [3701-compute-alternating-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/tsionkinde/topractice-leethub/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/tsionkinde/topractice-leethub/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3612-process-string-with-special-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/tsionkinde/topractice-leethub/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/tsionkinde/topractice-leethub/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
