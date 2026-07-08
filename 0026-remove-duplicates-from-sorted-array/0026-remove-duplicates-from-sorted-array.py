@@ -9,6 +9,5 @@ class Solution:
                 slow+=1
                 nums[slow]=nums[fast]
                
-        return slow+1    #because we add 1 we start slow from 0 that is why    
-          
+        return slow+1  
         
