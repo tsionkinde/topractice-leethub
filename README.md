@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tsionkinde/topractice-leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3612-process-string-with-special-operations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/tsionkinde/topractice-leethub/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/tsionkinde/topractice-leethub/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/tsionkinde/topractice-leethub/tree/master/3838-weighted-word-mapping) |
 ## Array
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tsionkinde/topractice-leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/tsionkinde/topractice-leethub/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
