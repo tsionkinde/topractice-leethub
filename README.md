@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsionkinde/topractice-leethub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/tsionkinde/topractice-leethub/tree/master/3516-find-closest-person) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsionkinde/topractice-leethub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
