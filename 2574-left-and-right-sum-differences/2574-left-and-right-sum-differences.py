@@ -7,6 +7,5 @@ class Solution:
             total -= num      
             ans.append(abs(left - total))
             left += num
-        return ans   
-
+        return ans 
         
