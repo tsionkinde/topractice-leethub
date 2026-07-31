@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tsionkinde/topractice-leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3612-process-string-with-special-operations-i) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/tsionkinde/topractice-leethub/tree/master/3838-weighted-word-mapping) |
