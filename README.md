@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tsionkinde/topractice-leethub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tsionkinde/topractice-leethub/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/tsionkinde/topractice-leethub/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/tsionkinde/topractice-leethub/tree/master/1837-sum-of-digits-in-base-k) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tsionkinde/topractice-leethub/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1103-distribute-candies-to-people](https://github.com/tsionkinde/topractice-leethub/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/tsionkinde/topractice-leethub/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/tsionkinde/topractice-leethub/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tsionkinde/topractice-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
