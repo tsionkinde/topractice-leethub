@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tsionkinde/topractice-leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2032-two-out-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tsionkinde/topractice-leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2032-two-out-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/tsionkinde/topractice-leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tsionkinde/topractice-leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
