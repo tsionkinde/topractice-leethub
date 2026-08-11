@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsionkinde/topractice-leethub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tsionkinde/topractice-leethub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/tsionkinde/topractice-leethub/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tsionkinde/topractice-leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsionkinde/topractice-leethub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tsionkinde/topractice-leethub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsionkinde/topractice-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/tsionkinde/topractice-leethub/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/tsionkinde/topractice-leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
