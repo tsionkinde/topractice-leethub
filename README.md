@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/tsionkinde/topractice-leethub/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1796-second-largest-digit-in-a-string) |
+| [1816-truncate-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tsionkinde/topractice-leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/1859-sorting-the-sentence) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1791-richest-customer-wealth](https://github.com/tsionkinde/topractice-leethub/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/tsionkinde/topractice-leethub/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/tsionkinde/topractice-leethub/tree/master/1833-maximum-ice-cream-bars) |
