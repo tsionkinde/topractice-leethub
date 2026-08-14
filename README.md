@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tsionkinde/topractice-leethub/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/tsionkinde/topractice-leethub/tree/master/2235-add-two-integers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2485-find-the-pivot-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/2485-find-the-pivot-integer) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/tsionkinde/topractice-leethub/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2027-minimum-moves-to-convert-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
