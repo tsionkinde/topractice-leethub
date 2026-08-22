@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/tsionkinde/topractice-leethub/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/tsionkinde/topractice-leethub/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tsionkinde/topractice-leethub/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tsionkinde/topractice-leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/tsionkinde/topractice-leethub/tree/master/2000-reverse-prefix-of-word) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/tsionkinde/topractice-leethub/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tsionkinde/topractice-leethub/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tsionkinde/topractice-leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2032-two-out-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/2032-two-out-of-three) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/tsionkinde/topractice-leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tsionkinde/topractice-leethub/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tsionkinde/topractice-leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
