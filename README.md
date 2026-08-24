@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/tsionkinde/topractice-leethub/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/tsionkinde/topractice-leethub/tree/master/2235-add-two-integers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2427-number-of-common-factors](https://github.com/tsionkinde/topractice-leethub/tree/master/2427-number-of-common-factors) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tsionkinde/topractice-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tsionkinde/topractice-leethub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/tsionkinde/topractice-leethub/tree/master/2169-count-operations-to-obtain-zero) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
