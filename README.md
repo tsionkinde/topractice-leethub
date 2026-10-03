@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/tsionkinde/topractice-leethub/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/tsionkinde/topractice-leethub/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tsionkinde/topractice-leethub/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/tsionkinde/topractice-leethub/tree/master/2843-count-symmetric-integers) |
