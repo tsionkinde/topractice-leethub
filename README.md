@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tsionkinde/topractice-leethub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/tsionkinde/topractice-leethub/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1580-shuffle-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1580-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tsionkinde/topractice-leethub/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/tsionkinde/topractice-leethub/tree/master/1534-count-good-triplets) |
 | [2427-number-of-common-factors](https://github.com/tsionkinde/topractice-leethub/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/tsionkinde/topractice-leethub/tree/master/2843-count-symmetric-integers) |
