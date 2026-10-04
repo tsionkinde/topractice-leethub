@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsionkinde/topractice-leethub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tsionkinde/topractice-leethub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/tsionkinde/topractice-leethub/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tsionkinde/topractice-leethub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/tsionkinde/topractice-leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/tsionkinde/topractice-leethub/tree/master/3527-find-the-most-common-response) |
