@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tsionkinde/topractice-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/tsionkinde/topractice-leethub/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tsionkinde/topractice-leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/tsionkinde/topractice-leethub/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/tsionkinde/topractice-leethub/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/tsionkinde/topractice-leethub/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tsionkinde/topractice-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tsionkinde/topractice-leethub/tree/master/2161-partition-array-according-to-given-pivot) |
