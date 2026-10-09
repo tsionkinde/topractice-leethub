@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/tsionkinde/topractice-leethub/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tsionkinde/topractice-leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tsionkinde/topractice-leethub/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/tsionkinde/topractice-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tsionkinde/topractice-leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tsionkinde/topractice-leethub/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/tsionkinde/topractice-leethub/tree/master/1668-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tsionkinde/topractice-leethub/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Quickselect
 |  |
 | ------- |
